@@ -70,4 +70,4 @@
 - VS Code 확장 > Python 검색
 - 확장자 .py(thon)
 - 탐색기 > day01 폴더 생성
-- py01_first.py 파일 생성성
+- py01_first.py 파일 생성
